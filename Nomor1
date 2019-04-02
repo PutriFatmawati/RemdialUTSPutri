@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+int main(){
+  int data_mahasiswa;
+  cout<< "Nama : Putri Fatmawati"<<endl;
+  cout<< "Nim  : 1829141022"<<endl;
+  cout<< "Kelas : Tekom B"<<endl;
+  cout<< "Tahun Angkatan : 2018"<<endl;
+ 
+return 0;
+}
